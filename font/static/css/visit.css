@@ -1,0 +1,35 @@
+#all {
+    background-color: black;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+#h1 {
+	text-align: center;
+	text-decoration: underline;
+}
+#toptext {
+	color:white;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	text-align: justify;
+	font-size: 25px;
+    text-indent: 25px;
+    padding: 30px;
+}
+#font {
+	padding-left: 70px;
+}
+#lowbar {
+	color: white;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	text-align: justify;
+	padding-left: 25%;
+	padding-right: 25%;
+	padding-bottom: 15px;
+	font-size: 35px;
+	font-style: italic;
+}
+#fo {
+	text-decoration: underline;
+}
